@@ -9,7 +9,7 @@
     "lint": "eslint src || true"
   },
   "bin": {
-    "lexique": "bin/cli"
+    "lexique": "cli.js"
   },
   "author": "Benoît Zugmeyer",
   "license": "GPLv3",
