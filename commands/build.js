@@ -54,6 +54,7 @@ function compiler(options) {
         compress: {
           warnings: false,
         },
+        sourceMap: false, // Weird error when running globally ("/usr/lib/node_modules/lexique/src/main.js" is not in the SourceMap.)
       })
     );
   }
