@@ -26,7 +26,6 @@
     "minimist": "^1.2.0",
     "mithril": "^0.2.1",
     "node-static": "^0.7.7",
-    "react": "^0.14.3",
     "temp": "^0.8.3",
     "webpack": "^1.9.10",
     "yaml-loader": "^0.1.0"
